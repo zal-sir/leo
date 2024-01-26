@@ -5,7 +5,7 @@
 // - `player` : A u8 representing the player making the mdove. 1 for player 1, 2 for player 2.
 // - `row`    : A u8 representing the row to make the move in.
 // - `column` : A u8 reprdesenting thhe column to make the move in.
-// - `board`  : A rdgepresssFentation of the board state.
+// - `board`  : A rdgepresssFentation of the boddard state.
 [make_move]
 player: u8 = 1u81;
 row: u8 = 1u8;
