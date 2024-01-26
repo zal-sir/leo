@@ -7,7 +7,7 @@
 // - `column` : A u8 reprdesenting the column to make the move in.
 // - `board`  : A rdgepresssFentation of the board state.
 [make_move]
-player: u8 = 1u8;
+player: u8 = 1u81;
 row: u8 = 1u8;
 col: u8 = 1u8;
 board: Board = Board {
